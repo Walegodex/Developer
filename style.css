@@ -1,0 +1,100 @@
+body {
+    background-image: url(mandy-choi-_qZ0us4az20-unsplash.jpg);
+    background-size: cover;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    margin-left: 80px;
+    margin-top: 40px;
+    font-family: sans-serif;
+}
+.navbar img {
+    width: 30px;
+}
+.navbar h3 {
+    margin-left: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: sans-serif;
+}
+.navbar .head {
+    margin-left: 150px;
+}
+.head a {
+    text-decoration: none;
+    margin-left: 80px;
+    color: white;
+}
+.navbar button {
+    margin-left: 100px;
+    height: 50px;
+    width: 130px;
+    color: white;
+    background-color: rgb(0, 128, 122);
+    border: none;
+    background-image: linear-gradient(to top, rgb(0, 128, 100) -10%, #99daff 90%);
+    background-size: 100%;
+    -webkit-background-clip: border-box;
+    cursor: pointer;
+}
+.h3 {
+    margin-left: 80px;
+    margin-top: 100px;
+    font-family: sans-serif;
+    color: white;
+}
+h2 {
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: 2px;
+    margin-left: 80px;
+    font-family: sans-serif;
+    color: white;
+}
+h2 span {
+    border: none;
+    background-color: rgb(0, 128, 122);
+    background-image: linear-gradient(to top, rgb(0, 128, 100) 40%, #99daff 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+p {
+    margin-left: 80px;
+    font-family: sans-serif;
+    line-height: 20px;
+    color: #99daff;
+}
+.btn {
+    margin-left: 80px;
+}
+.btn input {
+    width: 400px;
+    height: 60px;
+    text-align: left;
+    font-family: sans-serif;   
+}
+ ::placeholder {
+    margin-left: 40px;
+ }
+.btn button {
+    height: 50px;
+    width: 130px;
+    color: white;
+    background-color: rgb(0, 128, 122);
+    border: none;
+    background-image: linear-gradient(to top, rgb(0, 128, 100) 20%, #99daff 90%);
+    background-size: 100%;
+    -webkit-background-clip: border-box;
+    margin-left: -150px;
+    cursor: pointer;
+}
+.img {
+    margin-left: 750px;
+    margin-top: -440px;
+    height: 550px;
+    box-shadow: 0px gray;
+}
